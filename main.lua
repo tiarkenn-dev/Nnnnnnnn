@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hannnanzaa-sys/tian/refs/heads/main/tian.lua"))()
+loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/649486/2FHrSDNVYrqme7uz"))()
